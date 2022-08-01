@@ -1,2 +1,2 @@
 # gitcoding
-assignment purpose
+assignment purpose for sonata software
